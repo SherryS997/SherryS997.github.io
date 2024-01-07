@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sherry Thomas"
+  open-graph: true
+  twitter-card:
+    image: "images/profile.jpg"
+  navbar:  
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/SherryS997
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sherry-thomassp/
+      - icon: Kaggle
+        text: kaggle
+        href: https://www.kaggle.com/iveeaten3223times
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    highlight-style: github
+
+editor: visual

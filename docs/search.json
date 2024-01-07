@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "This website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.\nThe website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.\nRead more\n\n\n\n\n\n\nMachine Learning Algorithms"
+  },
+  {
+    "objectID": "projects.html#machine-learning-algorithms",
+    "href": "projects.html#machine-learning-algorithms",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "This website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.\nThe website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.\nRead more\n\n\n\n\n\n\nMachine Learning Algorithms"
+  },
+  {
+    "objectID": "projects.html#bloglite-v2",
+    "href": "projects.html#bloglite-v2",
+    "title": "Sherry Thomas",
+    "section": "BlogLite v2",
+    "text": "BlogLite v2\n\n\n\n\n\nBlog Lite v2\n\n\n\n\n\nBlog-Lite is a web app created with Vue3 and python-flask that lets users create and share text and image blogs. Users can follow, search and comment on other blogs. It also has a Rest API for limited data access and modification.\nRepo Link: https://github.com/SherryS997/Blog-Lite-v2"
+  },
+  {
+    "objectID": "projects.html#building-a-cat-image-classifier-using-neural-networks-from-scratch",
+    "href": "projects.html#building-a-cat-image-classifier-using-neural-networks-from-scratch",
+    "title": "Sherry Thomas",
+    "section": "Building a Cat Image Classifier using Neural Networks from Scratch",
+    "text": "Building a Cat Image Classifier using Neural Networks from Scratch\n\n\nThis project showcases the implementation of deep learning algorithms from scratch for cat image classification using NumPy and SciPy in Python.\nThe neural network architecture is developed within a Jupyter Notebook, emphasizing the creation of layers, activation functions like ReLU and Sigmoid, and training procedures.\nQuarto is utilized to convert the notebook into a webpage, presenting an accessible overview of the custom-built deep learning algorithms employed in the classification of cat images.\nRepo Link: https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy\n\n\n\n\n\n\nCat"
+  },
+  {
+    "objectID": "projects.html#exploring-regularization-techniques-in-neural-networks-for-french-football-corporation",
+    "href": "projects.html#exploring-regularization-techniques-in-neural-networks-for-french-football-corporation",
+    "title": "Sherry Thomas",
+    "section": "Exploring Regularization Techniques in Neural Networks for French Football Corporation",
+    "text": "Exploring Regularization Techniques in Neural Networks for French Football Corporation\n\n\n\n\n\nField Tactic Image\n\n\n\n\n\nThis project explores the implementation of deep learning algorithms, focusing on neural networks and regularization techniques like L2 and Dropout, applied to optimize ball kicking positions for French football players.\nThe project was primarily built using Python’s NumPy and SciPy libraries to create the neural network from scratch.\nThe notebook has been converted into a webpage using Quarto.\nRepo Link: https://github.com/SherryS997/French-Football-AI-Analysis"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Sherry Thomas studied Philosophy at Christ University and is now exploring Data Science at IIT Madras. They are currently working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.\n\n\n\nIndian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy\n\n\n\n\n\n\nInternship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Indian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Internship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
+  }
+]

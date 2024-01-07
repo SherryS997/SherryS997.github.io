@@ -1,0 +1,88 @@
+## Machine Learning Algorithms
+
+:::: columns
+
+::: {.column width="65%"}
+This website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.
+
+The website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.
+
+[Read more](https://sherrys997.github.io/Machine-Learning-Algorithms/){target="_blank" .button}
+
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Machine Learning Algorithms](https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1529600/1529612/original.jpg)
+:::
+
+::::
+
+## BlogLite v2
+
+:::: columns
+
+::: {.column width="30%"}
+![Blog Lite v2](images/bloglitev2.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+Blog-Lite is a web app created with Vue3 and python-flask that lets users create and share text and image blogs. Users can follow, search and comment on other blogs. It also has a Rest API for limited data access and modification.
+
+**Repo Link**: [https://github.com/SherryS997/Blog-Lite-v2](https://github.com/SherryS997/Blog-Lite-v2){target="_blank" .button}
+:::
+
+::::
+
+## Building a Cat Image Classifier using Neural Networks from Scratch
+
+:::: columns
+
+::: {.column width="65%"}
+This project showcases the implementation of deep learning algorithms from scratch for cat image classification using NumPy and SciPy in Python. 
+
+The neural network architecture is developed within a Jupyter Notebook, emphasizing the creation of layers, activation functions like ReLU and Sigmoid, and training procedures. 
+
+Quarto is utilized to convert the notebook into a webpage, presenting an accessible overview of the custom-built deep learning algorithms employed in the classification of cat images.
+
+**Repo Link**: [https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy](https://sherrys997.github.io/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy/Cat_classifier.html){target="_blank" .button}
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Cat](https://c.pxhere.com/photos/fa/1e/photo-73487.jpg!d)
+:::
+
+::::
+
+## Exploring Regularization Techniques in Neural Networks for French Football Corporation
+
+:::: columns
+
+::: {.column width="30%"}
+![Field Tactic Image](images/field_kiank.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+This project explores the implementation of deep learning algorithms, focusing on neural networks and regularization techniques like L2 and Dropout, applied to optimize ball kicking positions for French football players. 
+
+The project was primarily built using Python's NumPy and SciPy libraries to create the neural network from scratch. 
+
+The notebook has been converted into a webpage using Quarto.
+
+**Repo Link**: [https://github.com/SherryS997/French-Football-AI-Analysis](https://sherrys997.github.io/French-Football-AI-Analysis/){target="_blank" .button}
+:::
+
+::::
