@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Sherry Thomas studied Philosophy at Christ University and is now exploring Data Science at IIT Madras. He is currently working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.\n\n\n\nIndian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy\n\n\n\n\n\n\nInternship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Indian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Internship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Sherry Thomas",
@@ -33,26 +54,5 @@
     "title": "Sherry Thomas",
     "section": "Exploring Regularization Techniques in Neural Networks for French Football Corporation",
     "text": "Exploring Regularization Techniques in Neural Networks for French Football Corporation\n\n\n\n\n\nField Tactic Image\n\n\n\n\n\nThis project explores the implementation of deep learning algorithms, focusing on neural networks and regularization techniques like L2 and Dropout, applied to optimize ball kicking positions for French football players.\nThe project was primarily built using Python’s NumPy and SciPy libraries to create the neural network from scratch.\nThe notebook has been converted into a webpage using Quarto.\nRepo Link: https://github.com/SherryS997/French-Football-AI-Analysis"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sherry Thomas",
-    "section": "",
-    "text": "Sherry Thomas studied Philosophy at Christ University and is now exploring Data Science at IIT Madras. They are currently working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.\n\n\n\nIndian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy\n\n\n\n\n\n\nInternship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Sherry Thomas",
-    "section": "",
-    "text": "Indian Institute of Technology Madras\nSept 2021 - Aug 2025\nB.S. in Data Science and Applications\nChrist University, Bengaluru\nJune 2018 - May 2021\nB.A. in Philosophy"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Sherry Thomas",
-    "section": "",
-    "text": "Internship - 8 mos\nChennai, Tamil Nadu, India - On-site\n\nProject Intern\nOct 2023 - Present - 4 mos\nCurrently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.\nUndergraduate Teaching Assistant\nJun 2023 - Sep 2023 - 4 mos\nAs a Teaching Assistant for the “Machine Learning Techniques” course at IIT Madras, I mentored students and created engaging content."
   }
 ]

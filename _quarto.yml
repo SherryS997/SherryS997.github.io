@@ -26,8 +26,9 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: light.scss
+      dark: dark.scss
+    css: styles.css
     highlight-style: github
 
 editor: visual
