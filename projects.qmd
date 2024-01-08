@@ -87,7 +87,7 @@ The notebook has been converted into a webpage using Quarto.
 
 ::::
 
-## Building a Cat Image Classifier using Neural Networks from Scratch
+## Neural Image Style Transfer using PyTorch
 
 :::: columns
 
@@ -98,7 +98,7 @@ Emphasizing the power of pre-trained VGG19 models, this notebook delves into the
 
 The resultant notebook offers a comprehensive exploration of this creative fusion, unveiling the interplay between content and style representations, thereby serving as a foundational guide for those venturing into the realms of neural style transfer and artistic image manipulation.
 
-**Repo Link**: [https://github.com/SherryS997/Deep-Learning-with-PyTorch-Neural-Style-Transfer](https://sherrys997.github.io/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy/Cat_classifier.html){target="_blank" .button}
+**Repo Link**: [https://github.com/SherryS997/Deep-Learning-with-PyTorch-Neural-Style-Transfer](https://sherrys997.github.io/Deep-Learning-with-PyTorch-Neural-Style-Transfer/nb.html){target="_blank" .button}
 
 :::
 
@@ -106,7 +106,7 @@ The resultant notebook offers a comprehensive exploration of this creative fusio
 :::
 
 ::: {.column width="30%"}
-![Style Transfer example](./images/style.png)
+![Style Transfer example](https://sherrys997.github.io/Deep-Learning-with-PyTorch-Neural-Style-Transfer/nb_files/figure-html/cell-16-output-1.png)
 :::
 
 ::::
