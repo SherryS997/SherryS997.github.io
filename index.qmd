@@ -20,7 +20,7 @@ about:
 
 :::{#hero-heading}
 
-Sherry Thomas studied Philosophy at Christ University and is now exploring Data Science at IIT Madras. He is currently working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.
+I studied Philosophy at Christ University and am currently delving into the world of Data Science at IIT Madras. Presently, I am working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.
 
 ## Education
 
