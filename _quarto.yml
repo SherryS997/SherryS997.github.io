@@ -16,6 +16,9 @@ website:
       - href: resume.qmd
         text: Resume
     right:
+      - icon: IIT
+        text: IIT Madras
+        href: https://app.onlinedegree.iitm.ac.in/student/21F3001449
       - icon: github
         href: https://github.com/SherryS997
       - icon: linkedin

@@ -95,7 +95,7 @@ The notebook has been converted into a webpage using Quarto.
 This project shows how we can use PyTorch to mix different artistic styles in images using something called neural image style transfer. It's like blending different painting styles onto different pictures. 
 
 It talks about using pre-trained VGG19 models, which are like tools that help us understand images better. The notebook explains how to take out important details from images and define a way to measure how close or different two images are. Then, it uses these methods to slowly change one picture's style to look more like another picture.
-
+<!--  -->
 This notebook is a good starting point for anyone interested in mixing different artistic styles in images. It helps to understand how images can be changed to look like different art styles by combining their content and artistic details.
 
 **Repo Link**: [https://github.com/SherryS997/Deep-Learning-with-PyTorch-Neural-Style-Transfer](https://sherrys997.github.io/Deep-Learning-with-PyTorch-Neural-Style-Transfer/nb.html){target="_blank" .button}
