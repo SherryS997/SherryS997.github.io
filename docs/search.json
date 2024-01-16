@@ -25,14 +25,21 @@
     "href": "projects.html",
     "title": "Sherry Thomas",
     "section": "",
-    "text": "This website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.\nThe website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.\nRead more\n\n\n\n\n\n\nMachine Learning Algorithms"
+    "text": "Plot showing Sales during Various Time slots\n\n\n\n\n\nEmbark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.\nRead more"
+  },
+  {
+    "objectID": "projects.html#bdm-capstone-project-decoding-real-world-business-challenges",
+    "href": "projects.html#bdm-capstone-project-decoding-real-world-business-challenges",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "Plot showing Sales during Various Time slots\n\n\n\n\n\nEmbark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.\nRead more"
   },
   {
     "objectID": "projects.html#machine-learning-algorithms",
     "href": "projects.html#machine-learning-algorithms",
     "title": "Sherry Thomas",
-    "section": "",
-    "text": "This website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.\nThe website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.\nRead more\n\n\n\n\n\n\nMachine Learning Algorithms"
+    "section": "Machine Learning Algorithms",
+    "text": "Machine Learning Algorithms\n\n\nThis website is a comprehensive resource for machine learning algorithms. Here, you will find explanations of the most popular algorithms, as well as code implementations in Python.\nThe website is divided into two main sections: supervised learning and unsupervised learning. Supervised learning algorithms are used to learn from labeled data, while unsupervised learning algorithms are used to learn from unlabeled data.\nRead more\n\n\n\n\n\n\nMachine Learning Algorithms"
   },
   {
     "objectID": "projects.html#bloglite-v2",
@@ -46,20 +53,20 @@
     "href": "projects.html#building-a-cat-image-classifier-using-neural-networks-from-scratch",
     "title": "Sherry Thomas",
     "section": "Building a Cat Image Classifier using Neural Networks from Scratch",
-    "text": "Building a Cat Image Classifier using Neural Networks from Scratch\n\n\nThis project showcases the implementation of deep learning algorithms from scratch for cat image classification using NumPy and SciPy in Python.\nThe neural network architecture is developed within a Jupyter Notebook, emphasizing the creation of layers, activation functions like ReLU and Sigmoid, and training procedures.\nQuarto is utilized to convert the notebook into a webpage, presenting an accessible overview of the custom-built deep learning algorithms employed in the classification of cat images.\nRepo Link: https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy\n\n\n\n\n\n\nCat"
+    "text": "Building a Cat Image Classifier using Neural Networks from Scratch\n\n\nThis project showcases the implementation of deep learning algorithms from scratch for cat image classification using NumPy and SciPy in Python.\nThe neural network architecture is developed within a Jupyter Notebook, emphasizing the creation of layers, activation functions like ReLU and Sigmoid, and training procedures.\nQuarto is utilized to convert the notebook into a webpage, presenting an accessible overview of the custom-built deep learning algorithms employed in the classification of cat images.\nRead more\n\n\n\n\n\n\nCat"
   },
   {
     "objectID": "projects.html#exploring-regularization-techniques-in-neural-networks-for-french-football-corporation",
     "href": "projects.html#exploring-regularization-techniques-in-neural-networks-for-french-football-corporation",
     "title": "Sherry Thomas",
     "section": "Exploring Regularization Techniques in Neural Networks for French Football Corporation",
-    "text": "Exploring Regularization Techniques in Neural Networks for French Football Corporation\n\n\n\n\n\nField Tactic Image\n\n\n\n\n\nThis project explores the implementation of deep learning algorithms, focusing on neural networks and regularization techniques like L2 and Dropout, applied to optimize ball kicking positions for French football players.\nThe project was primarily built using Python’s NumPy and SciPy libraries to create the neural network from scratch.\nThe notebook has been converted into a webpage using Quarto.\nRepo Link: https://github.com/SherryS997/French-Football-AI-Analysis"
+    "text": "Exploring Regularization Techniques in Neural Networks for French Football Corporation\n\n\n\n\n\nField Tactic Image\n\n\n\n\n\nThis project explores the implementation of deep learning algorithms, focusing on neural networks and regularization techniques like L2 and Dropout, applied to optimize ball kicking positions for French football players.\nThe project was primarily built using Python’s NumPy and SciPy libraries to create the neural network from scratch.\nThe notebook has been converted into a webpage using Quarto.\nRead more"
   },
   {
     "objectID": "projects.html#neural-image-style-transfer-using-pytorch",
     "href": "projects.html#neural-image-style-transfer-using-pytorch",
     "title": "Sherry Thomas",
     "section": "Neural Image Style Transfer using PyTorch",
-    "text": "Neural Image Style Transfer using PyTorch\n\n\nThis project shows how we can use PyTorch to mix different artistic styles in images using something called neural image style transfer. It’s like blending different painting styles onto different pictures.\nIt talks about using pre-trained VGG19 models, which are like tools that help us understand images better. The notebook explains how to take out important details from images and define a way to measure how close or different two images are. Then, it uses these methods to slowly change one picture’s style to look more like another picture.  This notebook is a good starting point for anyone interested in mixing different artistic styles in images. It helps to understand how images can be changed to look like different art styles by combining their content and artistic details.\nRepo Link: https://github.com/SherryS997/Deep-Learning-with-PyTorch-Neural-Style-Transfer\n\n\n\n\n\n\nStyle Transfer example"
+    "text": "Neural Image Style Transfer using PyTorch\n\n\nThis project shows how we can use PyTorch to mix different artistic styles in images using something called neural image style transfer. It’s like blending different painting styles onto different pictures.\nIt talks about using pre-trained VGG19 models, which are like tools that help us understand images better. The notebook explains how to take out important details from images and define a way to measure how close or different two images are. Then, it uses these methods to slowly change one picture’s style to look more like another picture.  This notebook is a good starting point for anyone interested in mixing different artistic styles in images. It helps to understand how images can be changed to look like different art styles by combining their content and artistic details.\nRead more\n\n\n\n\n\n\nStyle Transfer example"
   }
 ]

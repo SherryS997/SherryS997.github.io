@@ -1,3 +1,24 @@
+## BDM Capstone Project: Decoding Real-World Business Challenges
+
+:::: columns
+
+::: {.column width="30%"}
+![Plot showing Sales during Various Time slots](images/time_slot.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+
+Embark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.
+
+[Read more](https://sherrys997.github.io/BDM-Project/){target="_blank" .button}
+
+:::
+
+::::
+
 ## Machine Learning Algorithms
 
 :::: columns
@@ -51,7 +72,7 @@ The neural network architecture is developed within a Jupyter Notebook, emphasiz
 
 Quarto is utilized to convert the notebook into a webpage, presenting an accessible overview of the custom-built deep learning algorithms employed in the classification of cat images.
 
-**Repo Link**: [https://github.com/SherryS997/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy](https://sherrys997.github.io/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy/Cat_classifier.html){target="_blank" .button}
+[Read more](https://sherrys997.github.io/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy/Cat_classifier.html){target="_blank" .button}
 
 :::
 
@@ -82,7 +103,8 @@ The project was primarily built using Python's NumPy and SciPy libraries to crea
 
 The notebook has been converted into a webpage using Quarto.
 
-**Repo Link**: [https://github.com/SherryS997/French-Football-AI-Analysis](https://sherrys997.github.io/French-Football-AI-Analysis/){target="_blank" .button}
+[Read more](https://sherrys997.github.io/French-Football-AI-Analysis){target="_blank" .button}
+
 :::
 
 ::::
@@ -98,7 +120,7 @@ It talks about using pre-trained VGG19 models, which are like tools that help us
 <!--  -->
 This notebook is a good starting point for anyone interested in mixing different artistic styles in images. It helps to understand how images can be changed to look like different art styles by combining their content and artistic details.
 
-**Repo Link**: [https://github.com/SherryS997/Deep-Learning-with-PyTorch-Neural-Style-Transfer](https://sherrys997.github.io/Deep-Learning-with-PyTorch-Neural-Style-Transfer/nb.html){target="_blank" .button}
+[Read more](https://sherrys997.github.io/Deep-Learning-with-PyTorch-Neural-Style-Transfer/nb.html){target="_blank" .button}
 
 :::
 
