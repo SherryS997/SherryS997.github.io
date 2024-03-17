@@ -34,12 +34,20 @@ I studied Philosophy at Christ University and am currently delving into the worl
 
 ## Experience
 
+#### AI4Bhārat
+**Internship - On-site**  
+IIT Madras, Chennai, Tamil Nadu, India - On-site
+
+- **Data Engineer**  
+  *Feb 2024 - Present - 6 mos*  
+  As a Data Engineer Intern at AI4Bharat, IIT Madras, I contribute to the TTS Lab by cleaning and preparing data to build open-source text-to-speech (TTS) models for the 22 official languages of India.
+
 #### IIT Madras BS in Data Science Programme
 **Internship - 8 mos**  
 Chennai, Tamil Nadu, India - On-site
 
 - **Project Intern**  
-  *Oct 2023 - Present - 4 mos*  
+  *Oct 2023 - Jan 2024 - 4 mos*  
   Currently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.
 
 - **Undergraduate Teaching Assistant**  
