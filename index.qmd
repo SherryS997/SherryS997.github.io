@@ -1,7 +1,7 @@
 ---
 title: "Sherry Thomas"
 about:
-  template: trestles
+  template: solana
   image: images/profile.jpg
   links:
     - icon: github
@@ -20,38 +20,38 @@ about:
 
 :::{#hero-heading}
 
-I studied Philosophy at Christ University and am currently delving into the world of Data Science at IIT Madras. Presently, I am working as an ML Intern at ICSR, IIT Madras for the BS Degree Program.
+I studied Philosophy at Christ University and am currently delving into Data Science at IIT Madras. Presently, I am working as a Data Science Intern at AI4Bharat, contributing to TTS model development for Indian languages.
 
 ## Education
 
 - **Indian Institute of Technology Madras**  
-  *Sept 2021 - Aug 2025*  
-  B.S. in Data Science and Applications
+  *September 2021 - August 2025*  
+  Bachelor of Science in Data Science and Applications
 
 - **Christ University, Bengaluru**  
   *June 2018 - May 2021*  
-   B.A. in Philosophy
+  Bachelor of Arts in Philosophy
 
 ## Experience
 
 #### AI4Bhārat
-**Internship - On-site**  
-IIT Madras, Chennai, Tamil Nadu, India - On-site
+**Data Science Intern**  
+  *February 2024 - Present (6 months)*  
+  AI4Bhārat, IIT Madras, Chennai, Tamil Nadu, India
 
-- **Data Engineer**  
-  *Feb 2024 - Present - 6 mos*  
-  As a Data Engineer Intern at AI4Bharat, IIT Madras, I contribute to the TTS Lab by cleaning and preparing data to build open-source text-to-speech (TTS) models for the 22 official languages of India.
+  - As a Data Science Intern at AI4Bharat, IIT Madras, I contribute to the TTS Lab by cleaning, preparing data, and training models to build open-source text-to-speech (TTS) models for the 22 official languages of India.
 
 #### IIT Madras BS in Data Science Programme
-**Internship - 8 mos**  
-Chennai, Tamil Nadu, India - On-site
+**Project Intern**  
+  *October 2023 - January 2024 (4 months)*  
+  IIT Madras, Chennai, Tamil Nadu, India
 
-- **Project Intern**  
-  *Oct 2023 - Jan 2024 - 4 mos*  
-  Currently a Project Intern at IIT Madras, delving into ML Research, bridging theory and practice.
+  - Engaged in ML research, bridging the gap between theoretical concepts and practical applications.
 
-- **Undergraduate Teaching Assistant**  
-  *Jun 2023 - Sep 2023 - 4 mos*  
-   As a Teaching Assistant for the "Machine Learning Techniques" course at IIT Madras, I mentored students and created engaging content.
+**Undergraduate Teaching Assistant**  
+  *June 2023 - September 2023 (4 months)*  
+  IIT Madras, Chennai, Tamil Nadu, India
+
+  - Mentored students and created engaging content for the "Machine Learning Techniques" course.
 
 :::
