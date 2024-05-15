@@ -39,7 +39,8 @@ I studied Philosophy at Christ University and am currently delving into Data Sci
   *February 2024 - Present (6 months)*  
   AI4Bhārat, IIT Madras, Chennai, Tamil Nadu, India
 
-  - As a Data Science Intern at AI4Bharat, IIT Madras, I contribute to the TTS Lab by cleaning, preparing data, and training models to build open-source text-to-speech (TTS) models for the 22 official languages of India.
+  - Contributing to the TTS Lab by cleaning, preparing data, and training models.
+  - Building open-source text-to-speech (TTS) models for the 22 official languages of India.
 
 #### IIT Madras BS in Data Science Programme
 **Project Intern**  
