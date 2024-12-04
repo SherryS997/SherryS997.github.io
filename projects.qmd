@@ -1,3 +1,27 @@
+## Indic Parler-TTS
+
+:::: columns
+
+::: {.column width="65%"}
+The Indic Parler-TTS project delivered a cutting-edge multilingual text-to-speech model capable of synthesizing speech across 21 languages, encompassing 20 Indic languages alongside English. Built upon the robust Parler-TTS architecture, this model empowers users with fine-grained control over various speech characteristics through the use of descriptive text prompts. This sophisticated approach enables the generation of highly nuanced and natural-sounding speech, catering to the diverse linguistic needs of a multilingual user base.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Indic Parler-TTS](https://huggingface.co/datasets/parler-tts/images/resolve/main/Indic%20Parler-TTS.png)
+:::
+
+My primary role involved curating and preparing the 8,385-hour multilingual speech dataset. This included data gathering, cleaning, and detailed caption annotation, crucial for the model's ability to produce nuanced speech.
+
+I was involved in the experimental phase, helping with training setup, monitoring performance, and analyzing results. I contributed to refining training strategies and troubleshooting issues. My observations on model performance also helped guide the project, contributing to a successful multilingual TTS solution.
+
+[Read more](https://huggingface.co/ai4bharat/indic-parler-tts/){target="_blank" .button}
+
+::::
+
 ## BDM Capstone Project: Decoding Real-World Business Challenges
 
 :::: columns

@@ -25,14 +25,21 @@
     "href": "projects.html",
     "title": "Sherry Thomas",
     "section": "",
-    "text": "Plot showing Sales during Various Time slots\n\n\n\n\n\nEmbark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.\nRead more"
+    "text": "The Indic Parler-TTS project delivered a cutting-edge multilingual text-to-speech model capable of synthesizing speech across 21 languages, encompassing 20 Indic languages alongside English. Built upon the robust Parler-TTS architecture, this model empowers users with fine-grained control over various speech characteristics through the use of descriptive text prompts. This sophisticated approach enables the generation of highly nuanced and natural-sounding speech, catering to the diverse linguistic needs of a multilingual user base.\n\n\n\n\n\n\nIndic Parler-TTS\n\n\nMy primary role involved curating and preparing the 8,385-hour multilingual speech dataset. This included data gathering, cleaning, and detailed caption annotation, crucial for the model’s ability to produce nuanced speech.I was involved in the experimental phase, helping with training setup, monitoring performance, and analyzing results. I contributed to refining training strategies and troubleshooting issues. My observations on model performance also helped guide the project, contributing to a successful multilingual TTS solution.Read more"
+  },
+  {
+    "objectID": "projects.html#indic-parler-tts",
+    "href": "projects.html#indic-parler-tts",
+    "title": "Sherry Thomas",
+    "section": "",
+    "text": "The Indic Parler-TTS project delivered a cutting-edge multilingual text-to-speech model capable of synthesizing speech across 21 languages, encompassing 20 Indic languages alongside English. Built upon the robust Parler-TTS architecture, this model empowers users with fine-grained control over various speech characteristics through the use of descriptive text prompts. This sophisticated approach enables the generation of highly nuanced and natural-sounding speech, catering to the diverse linguistic needs of a multilingual user base.\n\n\n\n\n\n\nIndic Parler-TTS\n\n\nMy primary role involved curating and preparing the 8,385-hour multilingual speech dataset. This included data gathering, cleaning, and detailed caption annotation, crucial for the model’s ability to produce nuanced speech.I was involved in the experimental phase, helping with training setup, monitoring performance, and analyzing results. I contributed to refining training strategies and troubleshooting issues. My observations on model performance also helped guide the project, contributing to a successful multilingual TTS solution.Read more"
   },
   {
     "objectID": "projects.html#bdm-capstone-project-decoding-real-world-business-challenges",
     "href": "projects.html#bdm-capstone-project-decoding-real-world-business-challenges",
     "title": "Sherry Thomas",
-    "section": "",
-    "text": "Plot showing Sales during Various Time slots\n\n\n\n\n\nEmbark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.\nRead more"
+    "section": "BDM Capstone Project: Decoding Real-World Business Challenges",
+    "text": "BDM Capstone Project: Decoding Real-World Business Challenges\n\n\n\n\n\nPlot showing Sales during Various Time slots\n\n\n\n\n\nEmbark on a journey through my Business Data Management (BDM) Capstone Project, where I tackled substantial business issues in collaboration with a Cafe. From formulating a comprehensive proposal to presenting compelling insights in the final report, the project scored an impressive total of 92. Delve into the anonymized reports and witness the intersection of data science and practical problem-solving.\nRead more"
   },
   {
     "objectID": "projects.html#machine-learning-algorithms",
